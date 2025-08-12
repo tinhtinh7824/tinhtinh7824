@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, mình là Nguyễn Công Tỉnh 👋</h1>
 
 <p align="center">
-Lập trình viên Mobile (Flutter) · Đam mê AI & Computer Vision · MongoDB Realm
+Lập trình viên Mobile (Flutter)
 </p>
 
 ---
@@ -67,6 +67,3 @@ Flutter (Dart) · Java · MongoDB Realm/Atlas · Realm Device Sync · YOLOv10 ·
 - 📧 Email: **[congtinh07082004@gmail.com](mailto:congtinh07082004@gmail.com)**
 - 🌐 Facebook: [facebook.com/tinhtinh784](https://www.facebook.com/tinhtinh784/)
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhtinh7824&show_icons=true&theme=radical)
