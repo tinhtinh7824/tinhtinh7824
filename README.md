@@ -7,7 +7,7 @@ Lập trình viên Mobile (Flutter)
 ---
 
 ## 🚀 Giới thiệu
-Mình hiện là sinh viên **Công nghệ thông tin** tại Đại học Kinh tế Quốc dân, đam mê phát triển ứng dụng di động với Flutter, kết hợp trí tuệ nhân tạo (AI) và xử lý ngôn ngữ tự nhiên (NLP) để tạo ra sản phẩm học tập thông minh và trực quan.
+Mình hiện là sinh viên **năm tư** ngành **Công nghệ thông tin** tại trường Công nghệ - Đại học Kinh tế Quốc dân, đam mê phát triển ứng dụng di động với Flutter, kết hợp trí tuệ nhân tạo (AI) và xử lý ngôn ngữ tự nhiên (NLP) để tạo ra sản phẩm học tập thông minh và trực quan.
 
 ---
 
